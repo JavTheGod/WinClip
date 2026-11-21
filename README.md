@@ -6,8 +6,8 @@ Move text and files between your iPhone and Windows PC on your local network.
 
 Windows 10 (22H2) and Windows 11. No GitHub account or separate .NET installation is needed.
 
-- [Download for Intel/AMD PCs (x64)](https://github.com/JavTheGod/WinClip/releases/latest/download/WinClip-Windows-x64.zip)
-- [Download for Windows on ARM (ARM64)](https://github.com/JavTheGod/WinClip/releases/latest/download/WinClip-Windows-arm64.zip)
+- [WinClip — Intel or AMD](https://github.com/JavTheGod/WinClip/releases/latest/download/WinClip-Windows-x64.zip)
+- [WinClip — ARM](https://github.com/JavTheGod/WinClip/releases/latest/download/WinClip-Windows-arm64.zip)
 
 1. Quit an older WinClip from its tray menu.
 2. Download and extract the ZIP into a permanent folder, then open WinClip.exe.
